@@ -1,0 +1,8 @@
+[Core]
+Name = Blog Beruby
+Module = blog_beruby
+
+[Documentation]
+Author = Benito Rodriguez
+Version = 0.1
+Description = Hace click sobre el blog de beruby
