@@ -8,3 +8,7 @@ simplePluginManager.collectPlugins()
 # Activate all loaded plugins
 for pluginInfo in simplePluginManager.getAllPlugins():
     simplePluginManager.activatePluginByName(pluginInfo.name)
+    
+beruby = Beruby()
+
+beruby.login()
