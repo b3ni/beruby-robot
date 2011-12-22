@@ -1,2 +1,2 @@
 yapsy
-requests
+scrapy
